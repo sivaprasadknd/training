@@ -6,5 +6,8 @@ public class TcpPacketCheck {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 	}
+	public static int multiply(int a,int b) {
+		return a*b;
+	}
 
 }
